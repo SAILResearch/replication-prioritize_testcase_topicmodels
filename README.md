@@ -45,4 +45,4 @@ We supply the data and results for the following systems:
 
 The ```tcp.lda``` tool can be found on [GitHub](https://github.com/stepthom/tcp.lda). 
 
-The preprocessing tool (```lscp```) can also be found on [GitHub](https://github.com/doofuslarge/lscp). 
+The preprocessing tool (```lscp```) can also be found on [GitHub](https://github.com/stepthom/lscp). 
